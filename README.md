@@ -1,5 +1,5 @@
 # BioNLP-2016
-Here contain the scripts and code used in Repeval 2016 paper: <br />
+Here contain the scripts and code used in ACL-BioNLP 2016 paper: <br />
 How to Train good Word Embeddings for Biomedical NLP
 
 ## API Package
